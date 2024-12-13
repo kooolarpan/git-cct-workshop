@@ -1,0 +1,1 @@
+Today, We are learning git and GitHub in the workshop organized by our fellow seniors.
